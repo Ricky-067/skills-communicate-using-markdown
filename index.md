@@ -4,11 +4,4 @@
 这是正文呢
 
 
-
-
-
-
-
-
-
-这是我对文件的修改
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
